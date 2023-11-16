@@ -1,6 +1,6 @@
 # This file is for Mac OS.
 # If you have Windows - install from requirements.txt
-selenium==3.141.0
+selenium==4.15.1
 urllib3==1.26.6
 SpeechRecognition==3.8.1
 pydub==0.25.1
